@@ -10,7 +10,7 @@
   "npcs": {
     "17712": {
       "name": "Tęczowa aukcjonerka",
-      "map": 1,
+      "map": 610,
       "image": "npcs/auctioneer/auctioneer.gif"
     }
   }
