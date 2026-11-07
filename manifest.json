@@ -1,9 +1,17 @@
+
 {
   "version": 1,
   "maps": {
     "1": {
       "name": "Ithan",
       "file": "maps/1.png"
+    }
+  },
+  "npcs": {
+    "17712": {
+      "name": "Tęczowa aukcjonerka",
+      "map": 1,
+      "image": "npcs/auctioneer/auctioneer.png"
     }
   }
 }
