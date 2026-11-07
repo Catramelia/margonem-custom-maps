@@ -10,8 +10,9 @@
   "npcs": {
     "17712": {
       "name": "Tęczowa aukcjonerka",
+      "displayName": "Generał Wilhelm",
       "map": 610,
-      "image": "npcs/auctioneer/auctioneer.gif"
+      "image": "npcs/actuoneer/auctioneer.gif"
     }
   }
 }
