@@ -14,5 +14,17 @@
       "map": 610,
       "image": "npcs/actuoneer/auctioneer.gif"
     }
+  },
+  "dialogues": {
+    "17712": {
+      "options": [
+        {
+          "position": 5,
+          "text": "Czy słyszałeś o niejakim Małym Wyrównywaczu Sił?",
+          "response": "Ciszej! Nie wolno w tym mieście wymawiać tej nazwy! Był to przedmiot stworzony przez Czarującego Dżejkoba.. Tak silny, że nosiciel osiągnął boski poziom siły!!",
+          "endText": "Zakończ rozmowę"
+        }
+      ]
+    }
   }
 }
